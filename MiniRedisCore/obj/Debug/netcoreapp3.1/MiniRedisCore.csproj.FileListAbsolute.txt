@@ -1,8 +1,0 @@
-E:\Work\MiniRedis\MiniRedisCore\bin\Debug\netcoreapp3.1\MiniRedisCore.deps.json
-E:\Work\MiniRedis\MiniRedisCore\bin\Debug\netcoreapp3.1\MiniRedisCore.dll
-E:\Work\MiniRedis\MiniRedisCore\bin\Debug\netcoreapp3.1\MiniRedisCore.pdb
-E:\Work\MiniRedis\MiniRedisCore\obj\Debug\netcoreapp3.1\MiniRedisCore.csprojAssemblyReference.cache
-E:\Work\MiniRedis\MiniRedisCore\obj\Debug\netcoreapp3.1\MiniRedisCore.AssemblyInfoInputs.cache
-E:\Work\MiniRedis\MiniRedisCore\obj\Debug\netcoreapp3.1\MiniRedisCore.AssemblyInfo.cs
-E:\Work\MiniRedis\MiniRedisCore\obj\Debug\netcoreapp3.1\MiniRedisCore.dll
-E:\Work\MiniRedis\MiniRedisCore\obj\Debug\netcoreapp3.1\MiniRedisCore.pdb

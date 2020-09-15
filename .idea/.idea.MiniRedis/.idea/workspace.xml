@@ -1,11 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61cdaa9c-d54f-4d0e-b541-fc9aad2b925b" name="Default Changelist" comment="" />
+    <list default="true" id="61cdaa9c-d54f-4d0e-b541-fc9aad2b925b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MiniRedis/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.Tests.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.Tests.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.Tests.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/MiniRedisCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Server.Tests.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Server.Tests.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Server.Tests.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Server.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/Server.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/nunit.engine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/testhost.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/MiniRedisCore.Tests.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/MiniRedisCore.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/MiniRedisCore.Tests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/MiniRedisCore.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/MiniRedisCore.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Debug/netcoreapp3.1/Server.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/MiniRedisCore.Tests.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Server.Tests.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Server.Tests.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Server.Tests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore.Tests/obj/Server.Tests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/bin/Debug/netcoreapp3.1/MiniRedisCore.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/bin/Debug/netcoreapp3.1/MiniRedisCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/bin/Debug/netcoreapp3.1/MiniRedisCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/bin/Debug/netcoreapp3.1/Server.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/MiniRedisCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Debug/netcoreapp3.1/Server.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/MiniRedisCore.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/MiniRedisCore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisCore/obj/MiniRedisCore.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Server.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Server.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Server.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/Server.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisCore/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisCore.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/MiniRedisServer.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/MiniRedisServer.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/staticwebassets/MiniRedisServer.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/Debug/netcoreapp3.1/staticwebassets/MiniRedisServer.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/MiniRedisServer.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/MiniRedisServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisServer/obj/MiniRedisServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniRedisServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MiniRedisServer/obj/project.assets.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MiniRedisCore/Commands/CommandProcessor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -90,6 +264,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a1PqHn3tpjyeQKcprUFbnjzlb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -136,7 +311,7 @@
       <updated>1585900315570</updated>
       <workItem from="1585900317127" duration="51167000" />
       <workItem from="1591379519642" duration="2000" />
-      <workItem from="1600154962081" duration="411000" />
+      <workItem from="1600154962081" duration="1017000" />
     </task>
     <servers />
   </component>
@@ -145,6 +320,29 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
